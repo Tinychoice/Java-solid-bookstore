@@ -4,4 +4,4 @@ public interface UserActions {
     void reviewBook(String bookTitle, String review);
     void addBookToStore(String title, String type, double price);
     void removeBookFromStore(String title);
-    }
+}
