@@ -10,4 +10,3 @@ class OrderProcessor {
         notificationService.sendNotification(userEmail, "Your order for " + book.title + " has been processed.");
     }
 }
-
